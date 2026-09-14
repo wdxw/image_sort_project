@@ -1,0 +1,2 @@
+[2026-08-01 00:53:11] 图片=21ba5364a167b344abae6fc0e04d36c6.jpg  模型=ResNet18_Transfer  结果=cat(97.1%)  Top2=bird(2.8%)
+[2026-08-01 00:58:13] 图片=test1.jpg  模型=ResNet18_Transfer  结果=dog(94.2%)  Top2=cat(5.8%)

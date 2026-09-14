@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Local environments and IDE settings
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+
+# Downloaded datasets and generated model weights
+data/
+checkpoints/
+
+# Local logs and system files
+*.log
+.DS_Store
+Thumbs.db

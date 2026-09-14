@@ -1,0 +1,4 @@
+﻿Model,Accuracy,Macro_Precision,Macro_Recall,Macro_F1
+SimpleCNN,84.19%,84.12%,84.19%,84.13%
+ResNet18_Scratch,94.31%,94.32%,94.31%,94.31%
+ResNet18_Transfer,95.08%,95.08%,95.08%,95.06%
